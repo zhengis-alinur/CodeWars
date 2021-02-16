@@ -1,4 +1,4 @@
-package com.alinur.kyu6.Task1;
+package com.alinur.kyu6.PlayingWithDigits;
 
 public class Main {
 //

@@ -1,4 +1,4 @@
-package com.alinur.kyu6.Task2;
+package com.alinur.kyu6.MultiplesOf3Or5;
 
 public class Main {
 //
