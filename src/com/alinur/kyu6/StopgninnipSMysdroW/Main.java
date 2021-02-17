@@ -1,5 +1,8 @@
 package com.alinur.kyu6.StopgninnipSMysdroW;
 
+import java.util.Arrays;
+import java.util.stream.Collectors;
+
 public class Main {
 //
     public static void main(String[] args) {
@@ -18,6 +21,10 @@ public class Main {
         System.out.println(String.join(" ", words));
         return String.join(" ", words);
     }
+
+//    public static String spWords(String sentence) {
+//        return Arrays.stream(sentence.split(" ")).map( i -> i.length() > 4 ? new StringBuffer(i).reverse().toString() : i).collect(Collectors.joining(" "));
+//    }
 
 
 
